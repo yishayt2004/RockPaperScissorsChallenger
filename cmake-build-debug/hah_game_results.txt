@@ -1,0 +1,22 @@
+Game Results for hah - Tue May 21 01:09:12 2024
+
+-----------------------------------
+Round 1:
+Player Wins: 2
+Computer Wins: 1
+Winner: hah (+1)
+-----------------------------------
+Round 2:
+Player Wins: 0
+Computer Wins: 2
+Winner: Computer (+2)
+-----------------------------------
+Round 3:
+Player Wins: 0
+Computer Wins: 2
+Winner: Computer (+2)
+-----------------------------------
+Total Rounds Played: 3
+Total Player Wins: 2
+Total Computer Wins: 5
+Overall Winner: Computer (+3)

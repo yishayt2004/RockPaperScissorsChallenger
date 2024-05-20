@@ -1,0 +1,10 @@
+Player Name: ישי
+Player Wins: 2
+Computer Wins: 0
+Winner: ישי
+-----------------------------------
+Player Name: ישי
+Player Wins: 2
+Computer Wins: 1
+Winner: ישי
+-----------------------------------
